@@ -1,0 +1,124 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+body{
+    position: absolute;
+}
+.basketball{
+    
+    width:300px;
+    display:flex;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.basketball img{
+    width:300px;
+    margin-right: 20px;
+}
+
+.running{
+    
+    width:300px;
+    display:flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 10px;
+    
+}
+
+.running img{
+    width:300px;
+    margin-right: 20px;
+}
+
+
+.luxury{
+    
+    width:300px;
+    display:flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 10px;
+    
+}
+
+.luxury img{
+    width:300px;
+    margin-right: 20px;
+}
+
+
+.casual{
+    
+    width:300px;
+    display:flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 10px;
+    
+}
+
+.casual img{
+    width:300px;
+    margin-right: 20px;
+}
+
+.jewelery{
+    
+    width:300px;
+    display:flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 10px;
+    
+}
+
+.jewelery img{
+    width:300px;
+    margin-right: 20px;
+}
+
+.hats{
+    
+    width:300px;
+    display:flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 10px;
+    
+}
+
+.hats img{
+    width:300px;
+    margin-right: 20px;
+}
+
+.socks{
+    
+    width:300px;
+    display:flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 10px;
+    
+}
+
+.socks img{
+    width:300px;
+    margin-right: 20px;
+}
+
+
+
+
+
